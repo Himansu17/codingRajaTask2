@@ -1,0 +1,50 @@
+#cv-form{
+    display: block;
+}
+#cv-template{
+    display: none;
+}
+
+.imgholder{
+    border: 1px solid rgb(225, 65, 65);
+    width: 100px;
+}
+
+.tempBackground{
+    background: linear-gradient(rgb(124, 173, 230),rgb(4, 193, 214));
+}
+#cardHeader{
+    background: linear-gradient(rgb(87, 230, 20),rgb(4, 22, 214));
+}
+#fbTemp{
+    text-decoration: none;
+    color: rgb(15, 14, 0);
+     font-weight: bold;
+}
+#instaTemp{
+    text-decoration: none;
+    color: rgb(13, 0, 12);
+     font-weight: bold;
+}
+#linkedinTemp{
+     font-weight: bold;
+    text-decoration: none;
+    color: rgb(1, 17, 1);
+}
+#cardHeader>h3{
+   color: rgb(7, 236, 232);
+   font-weight: bold;
+   font-size: 30px;
+}
+#nameTemp1,#contactTemp,#addressTemp{
+    color: rgb(10, 1, 14);
+     font-weight: bold;
+}
+#nameTemp2{
+     color: rgb(0, 1, 10);
+     font-weight: bold;
+}
+#Link17{
+     color: rgb(230, 8, 56);
+     font-weight: bold;
+}
